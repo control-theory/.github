@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.controltheory.com">
-    <img src="https://github.com/control-theory/.github/assets/controltheory-logo.png" width="300" alt="ControlTheory logo" />
+    <img src="https://raw.githubusercontent.com/control-theory/.github/refs/heads/main/assets/controltheory-logo.png" width="300" alt="ControlTheory logo" />
   </a>
 </p>
 
@@ -69,5 +69,6 @@ We ❤️ community input! You can help by:
 ## 📜 License
 
 All Gonzo repositories are licensed under the [MIT License](https://github.com/control-theory/gonzo/blob/main/LICENSE).
+
 
 
