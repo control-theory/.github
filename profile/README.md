@@ -6,7 +6,7 @@
 
 # Welcome to ControlTheory
 
-ControlTheory builds practical observability tools for modern SREs — open-source tools and AI-powered platforms that distill telemetry down to essential answers for developers and engineering teams. 
+ControlTheory builds practical observability tools for modern developers and SREs — open-source tools and AI-powered platforms that distill telemetry down to essential answers. 
 
 We’re committed to building observability and SRE tools that are:
 
@@ -17,6 +17,8 @@ We’re committed to building observability and SRE tools that are:
 - **Immediately Useful**: plug-n-pay, instant value
 
 Our flagship open-source project is **[Gonzo](https://github.com/control-theory/gonzo)** — the **k9s-style, OTLP-native, AI-powered log analyzer**.
+
+---
 
 ## Repositories
 
@@ -61,7 +63,7 @@ We ❤️ community input! You can help by:
 
 ## Who We Are
 
-[ControlTheory](https://www.controltheory.com) AI-First observability distills telemetry down to the essential answers SREs require, concentrating the signal, not the noise. We believe in **open standards**, **developer-first experiences**, and **AI-powered insights**.
+[ControlTheory](https://www.controltheory.com) AI-First observability distills telemetry down to the essential answers SREs and developers require, concentrating the signal, not the noise. We believe in **open standards**, **developer-first experiences**, and **AI-powered insights**.
 
 
 ---
@@ -69,6 +71,7 @@ We ❤️ community input! You can help by:
 ## 📜 License
 
 All Gonzo repositories are licensed under the [MIT License](https://github.com/control-theory/gonzo/blob/main/LICENSE).
+
 
 
 
